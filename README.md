@@ -2,9 +2,12 @@
 
 ## Teammates: Juell, Peter, Sel, Jess
 
-### EPIC 1: Connect
+## Project Board
 
-Youtube search API (pieces needed, fetch api, js functions)
+![link to Github Kanban Project](https://github.com/peterkim1025/recipe_finder)
+
+### EPIC 1: Connect Youtube search API
+
 As a developer
 I want to integrate the Youtube API
 So that I can display videos based on their search
@@ -17,10 +20,7 @@ As a developer
 I want to integrate the Youtube API
 So that I can direct users to watch videos based on their search and selection
 
-### EPIC 2: Landing page setup (index.html, css)
-
-(CSS)
-(index.html)
+### EPIC 2: Landing page setup
 
 As a developer
 I want to create a landing page that a user can search
@@ -56,5 +56,5 @@ So that I can direct users to articles based on their selection
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+The following photo shows the application:
 ![Mockup of project](./assets/imgs/Screenshot%202023-09-26%20at%2010.31.18%20PM.png)
